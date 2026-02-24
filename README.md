@@ -111,10 +111,10 @@ I focus on building **enterprise-ready, production-hardened systems**, not just 
 
 <h2>✍️ Dev Quote</h2>
 
-<div style="background: linear-gradient(90deg, #0f2027, #203a43, #2c5364); padding:20px; border-radius:12px; color:white;">
+<div style="background-color:#0d1117; padding:20px; border-radius:10px; color:white;">
 
-<em>"Automation is not a luxury. It is a necessity."</em>  
+<em>"Make it work. Make it right. Make it automated."</em>  
 <br><br>
-— Cloud & DevOps Engineering
+— DevOps Mindset
 
 </div>
