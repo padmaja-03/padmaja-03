@@ -23,7 +23,7 @@ I focus on building **enterprise-ready, production-hardened systems**, not just 
 
 ## 🧠 What I Bring to the Table
 
-✔ Multi-environment CI/CD architecture (INT → TST → PRD)  
+✔ Multi-environment CI/CD architecture
 ✔ Secure secret handling using AWS Secrets Manager  
 ✔ Golden AMI creation with Packer + Hardening  
 ✔ Kubernetes Stateful vs Stateless architecture  
@@ -85,14 +85,6 @@ Liquibase
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Currently Focused On
 
 - Production-grade EKS architecture
@@ -104,8 +96,8 @@ Liquibase
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add professional email)
+- 💼 LinkedIn: (https://www.linkedin.com/in/padmaja-kvn/)
+- 📧 Email: (padmaja.kvn03@gmail.com)
 - 🌍 Open to: Senior DevOps / Platform Engineer / Cloud Architect roles
 
 ---
