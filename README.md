@@ -45,13 +45,7 @@ I focus on building **enterprise-ready, production-hardened systems**, not just 
 ![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-0052CC?style=for-the-badge)
 ---
 
-## 🛠 Tech Stack
-
 ## 🚀 Tech Stack
-
-## ⚡ Tech Stack
-
-## ⚡ Tech Stack
 
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
