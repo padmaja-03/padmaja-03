@@ -32,6 +32,12 @@ I focus on building **enterprise-ready, production-hardened systems**, not just 
 ✔ Liquibase DB automation via GitHub Actions  
 ✔ DevSecOps integrations (Snyk, scanning, compliance)
 
+## 🏆 Certifications
+
+![GCP](https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-0052CC?style=for-the-badge)
 ---
 
 ## 🛠 Tech Stack
