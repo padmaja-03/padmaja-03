@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/padmaja-03/padmaja-03/main/Banner.png" width="100%" />
+</p>
+
 # Hi there 👋 I'm Padmaja
 
 🚀 Senior DevOps Engineer | AWS | Kubernetes | Terraform | GitHub Actions | CI/CD Architect  
