@@ -1,17 +1,17 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/padmaja-03/padmaja-03/main/Banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/padmaja-03/padmaja-03/main/New.Banner.png" width="100%" />
 </p>
 
 # Hi there 👋 I'm Padmaja
 
-🚀 Senior DevOps Engineer | AWS | Kubernetes | Terraform | GitHub Actions | CI/CD Architect  
+🚀 DevOps Engineer | AWS | Kubernetes | Terraform | GitHub Actions | CI/CD Architect  
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a results-driven **Senior DevOps Engineer** with strong experience designing secure, scalable, and production-grade cloud infrastructure.
+I am a results-driven **DevOps Engineer** with strong experience designing secure, scalable, and production-grade cloud infrastructure.
 
 I specialize in:
 
